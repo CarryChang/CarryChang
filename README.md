@@ -1,9 +1,7 @@
-### Hi Buddy 👋
-
-![hobby](https://github.com/CarryChang/CarryChang/blob/master/cai.gif)
-
 ![count](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/CarryChang)
+### Hi  Buddy 👋 
 
+<div align=center><img  src="https://github.com/CarryChang/CarryChang/blob/master/cai.gif"></div>
 
 <!--
 **CarryChang/CarryChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
