@@ -1,6 +1,6 @@
 ### Hi Buddy 👋
 
-![hobby](https://github.com/CarryChang/CarryChang/blob/master/cool_c.gif)
+![hobby](https://github.com/CarryChang/CarryChang/blob/master/cai.gif)
 
 ![count](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/CarryChang)
 
