@@ -1,7 +1,5 @@
 ### Hi Buddy 👋
 
-#![hobby](https://github.com/CarryChang/CarryChang/blob/master/cai.gif)
-
 <div align=center><img  src="https://github.com/CarryChang/CarryChang/blob/master/cai.gif"></div>
 
 
